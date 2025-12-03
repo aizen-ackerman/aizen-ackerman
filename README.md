@@ -3,7 +3,7 @@
 
 🎓 **B.E. Computer Science (Cyber Security)** student  
 💻 Passionate about **Cybersecurity**, **Networking**, and **AI-powered apps**  
-🔥 Currently building: **My Career😅** & **Zer0Cloud**
+🔥 Currently building: **My Career😅**
 
 ---
 
