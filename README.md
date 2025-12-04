@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 🧠 I code in **Python**, **Java** and **C**
+- 🧠 I code in **Python**, **Java** , **C**
 - 🌐 Exploring **ethical hacking**, **Splunk**, and **network defense**
 - 🧰 Tool I vibe with: **Kali Linux**
 
