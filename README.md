@@ -7,8 +7,8 @@
 ---
 
 ## 🚀 About Me
-- 🧠 I code in **Python**, **Java** , **C**
-- 🌐 Exploring **ethical hacking**, **Splunk**, and **network defense**
+- 🧠 I code in **Java**
+- 🌐 Exploring **Ethical hacking**, **Splunk**, and **Network Defense**
 
 ---
 
