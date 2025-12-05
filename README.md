@@ -16,7 +16,7 @@
 - 🕵️‍♂️ **WiFi Security Analysis** – scanning and analyzing network vulnerabilities  
 - 🌐 **LEAKFINDER** – checks web apps for common security flaws  
 - 🤖 **AI Interview Practice Platform** – AI-driven mock interviews with feedback  
-- 💬 **CodeChat** – full-stack chat app using Flask + MongoDB + HTML/CSS frontend
+- 💬 **Secure Messaging WEB app** – full-stack chat app using Flask + MongoDB + HTML/CSS frontend
 - 🌐 **Zer0Cloud** - A modular security tool kit used to find miscofigs in your cloud consoles
 
 ---
