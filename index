@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Aizen-Akerman</title>
+
+  <style>
+    @import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&display=swap");
+
+    :root {
+      --background: #1a170f;
+      --foreground: #eceae5;
+      --accent: #eec35e;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: "Fira Code", monospace;
+      background: var(--background);
+      color: var(--foreground);
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 50px 20px;
+    }
+
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 5px;
+    }
+
+    .subtitle {
+      color: var(--accent);
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      margin-top: 40px;
+      margin-bottom: 15px;
+      font-size: 1.4rem;
+    }
+
+    p {
+      margin-bottom: 18px;
+    }
+
+    hr {
+      border: none;
+      height: 2px;
+      background: var(--accent);
+      margin: 25px 0;
+    }
+
+    footer {
+      margin-top: 60px;
+      font-size: 0.9rem;
+      opacity: 0.8;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    /* Terminal feel */
+    .prompt::before {
+      content: "> ";
+      color: var(--accent);
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+
+    <header>
+      <h1>Aizen-Akerman</h1>
+      <div class="subtitle">Cybersecurity • CTF • Linux Systems</div>
+      <hr>
+    </header>
+
+    <section>
+      <h2 class="prompt">About Me</h2>
+
+      <p>
+        I’m a passionate Computer Science student focused on Cybersecurity,
+        Linux systems, and low-level problem solving.
+      </p>
+
+      <p>
+        I actively work on CTF challenges, security research, and hands-on
+        projects involving reverse engineering, binary analysis, and web
+        security. I prefer learning by breaking real systems, understanding
+        why they fail, and then building secure solutions.
+      </p>
+
+      <p>
+        I have practical experience with Java , Python and C, automation scripts,
+        and Linux-based tooling. Most of my repositories focus on security
+        utilities, learning projects, and experimental implementations
+        rather than boilerplate code.
+      </p>
+
+      <p>
+        I believe in clean logic, clear documentation, and real-world
+        relevance. This GitHub is a record of my continuous learning,
+        experiments, and technical growth.
+      </p>
+    </section>
+
+    <footer>
+      <hr>
+      <p>© 2025 Aizen-Akerman</p>
+    </footer>
+
+  </div>
+</body>
+</html>
