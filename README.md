@@ -40,9 +40,11 @@
 
 ---
 
-## 📫 Connect With Me
+## 🛡️ TryHackMe Profile
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/3768358.png)](https://tryhackme.com/p/AizenAckerman)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/AizenAckerman.png)](https://tryhackme.com/p/AizenAckerman)
+---
+## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Harshatkarthii_n_t/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__.harshat.__) [![Pwn.college](https://img.shields.io/badge/Pwn_College-purple?style=for-the-badge&logo=hack-the-box&logoColor=white)](https://pwn.college/hacker/147573)
 
