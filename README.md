@@ -1,4 +1,4 @@
-# Youkoso!
+# Yōkoso!
 
 🎓 **B.E. Computer Science (Cyber Security)** student  
 💻 Passionate about **Cybersecurity**, **Networking**, and **AI-powered apps**  
