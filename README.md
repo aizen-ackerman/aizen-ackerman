@@ -6,9 +6,9 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About
 - 🧠 I code in **Java**
-- 🌐 Exploring **Ethical hacking**, **Splunk**, and **Network Defense**
+- 🌐 Exploring **Ethical hacking**, **SIEM**, and **Network Defense**
 
 ---
 
