@@ -42,7 +42,7 @@
 
 ## 🛡️ TryHackMe Profile
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/AizenAckerman.png)](https://tryhackme.com/p/AizenAckerman)
+[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3768358)](https://tryhackme.com/p/AizenAckerman)
 ---
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
