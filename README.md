@@ -20,8 +20,27 @@
 ---
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-214478?style=flat&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDA-000000?style=flat&logo=protonvpn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghidra-FF6F00?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-2C2C2C?style=flat&logo=linux&logoColor=white" />
+</p>
 
 
 ---
