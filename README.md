@@ -46,13 +46,14 @@
 ---
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aizen-ackerman&show_icons=true&theme=transparent&count_private=true&hide_border=true" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=aizen-ackerman&theme=transparen&hide_border=false" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aizen-ackerman&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=aizen-ackerman&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aizen-ackerman&theme=transparen" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aizen-ackerman&theme=chartreuse-dark" />
 </p>
+
 ---
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
