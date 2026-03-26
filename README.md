@@ -45,6 +45,7 @@
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/AizenAckerman.png)](https://tryhackme.com/p/AizenAckerman)
 ---
 
+## ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)Git Status
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aizen-ackerman&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true" />
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=aizen-ackerman&theme=chartreuse-dark&hide_border=true" />
