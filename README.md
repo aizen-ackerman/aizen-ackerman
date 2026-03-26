@@ -1,14 +1,10 @@
-# Yōkoso!
+# 🗡️ Yōkoso Watashi no Aizen's Profile-e !
 
-🎓 **B.E. Computer Science (Cyber Security)** student  
-💻 Passionate about **Cybersecurity**, **Networking**, and **AI-powered apps**  
-🔥 Currently building: **My Career😅**
-
----
+<h2 align="center"> Cyber Security Enthusiast | CTF Player | Newtwork Analyst | Pentester</h2>  
 
 ## 🚀 About
 - 🧠 I code in **Java**
-- 🌐 Exploring **Ethical hacking**, **SIEM**, and **Network Defense**
+- 🌐 Exploring **Ethical hacking**, **SIEM**, **Network Defense** and **DevOps**
 
 ---
 
@@ -24,10 +20,15 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
