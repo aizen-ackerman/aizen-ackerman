@@ -45,7 +45,7 @@
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/AizenAckerman.png)](https://tryhackme.com/p/AizenAckerman)
 ---
 
-p align="center">
+<p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aizen-ackerman&show_icons=true&theme=transparen&count_private=true&hide_border=false" />
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=aizen-ackerman&theme=transparen&hide_border=false" />
 </p>
