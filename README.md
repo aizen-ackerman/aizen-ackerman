@@ -46,7 +46,7 @@
 ---
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aizen-ackerman&show_icons=true&theme=transparen&count_private=true&hide_border=false" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aizen-ackerman&show_icons=true&theme=transparent&count_private=true&hide_border=true" />
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=aizen-ackerman&theme=transparen&hide_border=false" />
 </p>
 
