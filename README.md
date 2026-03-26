@@ -13,9 +13,7 @@
 ---
 
 ## 🛠️ Projects
-- 🕵️‍♂️ **WiFi Security Analysis** – scanning and analyzing network vulnerabilities  
 - 🌐 **LEAKFINDER** – checks web apps for common security flaws  
-- 🤖 **AI Interview Practice Platform** – AI-driven mock interviews with feedback  
 - 💬 **Secure Messaging WEB app** – full-stack chat app using Flask + MongoDB + HTML/CSS frontend
 - 🌐 **Zer0Cloud** - A modular security tool kit used to find miscofigs in your cloud consoles
 
@@ -43,9 +41,10 @@
 ## 🛡️ TryHackMe Profile
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/AizenAckerman.png)](https://tryhackme.com/p/AizenAckerman)
+
 ---
 
-## ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)Git Status
+## 🐙 Git Status
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aizen-ackerman&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true" />
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=aizen-ackerman&theme=chartreuse-dark&hide_border=true" />
@@ -57,8 +56,12 @@
 
 ---
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Harshatkarthii_n_t/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__.harshat.__) [![Pwn.college](https://img.shields.io/badge/Pwn_College-purple?style=for-the-badge&logo=hack-the-box&logoColor=white)](https://pwn.college/hacker/147573)
+<p align="center">
+  <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Harshatkarthii_n_t/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
+  <a href="https://instagram.com/__.harshat.__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://test-har3-sri-shakthi-01.s3.us-east-1.amazonaws.com/portfolio.html"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Firefox&logoColor=white" /></a>
+</p>
 
 
 
