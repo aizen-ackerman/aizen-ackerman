@@ -81,7 +81,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/harshatkarthii-n-t-aa1097301/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/Harshatkarthii_n_t/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
-  <a href="https://test-har3-sri-shakthi-01.s3.us-east-1.amazonaws.com/portfolio.html"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Firefox&logoColor=white" /></a>
+  <a href="http://aizen-ackerman.s3-website-us-east-1.amazonaws.com/"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Firefox&logoColor=white" /></a>
 </p>
 
 
