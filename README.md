@@ -1,6 +1,6 @@
 # 🗡️ Yōkoso Watashi no Aizen's Profile-e !
 
-<h2 align="center"> Cyber Security Enthusiast | CTF Player | Newtwork Analyst | Pentester</h2>  
+<h2 align="center"> Cyber Security Enthusiast | CTF Player | Newtwork Analyst | Pentester </h2>  
 
 ## 🚀 About
 - 🧠 I code in **Java**
