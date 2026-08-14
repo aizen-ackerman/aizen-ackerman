@@ -40,7 +40,6 @@
 ## Whoami
 
 <div>
-  <img align="right" src="pikachu.png" width="170" alt="Pikachu" />
 
   ```
   ┌──(aizen㉿security)-[~]
