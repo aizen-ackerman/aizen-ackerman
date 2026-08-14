@@ -9,16 +9,6 @@
 ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝
 
 
- █████╗  ██████╗██╗  ██╗███████╗██████╗ ███╗   ███╗ █████╗ ███╗   ██╗
-██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗████╗ ████║██╔══██╗████╗  ██║
-███████║██║     █████╔╝ █████╗  ██████╔╝██╔████╔██║███████║██╔██╗ ██║
-██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗██║╚██╔╝██║██╔══██║██║╚██╗██║
-██║  ██║╚██████╗██║  ██╗███████╗██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║
-╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-
-
-
-
 </pre>
 </div>
 
@@ -57,7 +47,34 @@
 <br clear="both">
 
 
+## 🛡️ Cyber Security Skills
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/SOC_Operations-00FF41?style=for-the-badge&logo=security&logoColor=white"/>
+<img src="https://img.shields.io/badge/Incident_Response-FF0000?style=for-the-badge&logo=opsgenie&logoColor=white"/>
+<img src="https://img.shields.io/badge/Threat_Hunting-791abd?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vulnerability_Assessment-1A1A2E?style=for-the-badge&logo=owasp&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Network_Security-0078D4?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud_Security-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Application_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Malware_Analysis-000000?style=for-the-badge&logo=virustotal&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Penetration_Testing-FF6633?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Digital_Forensics-005571?style=for-the-badge&logo=fortran&logoColor=white"/>
+<img src="https://img.shields.io/badge/SIEM_Engineering-00A4EF?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevSecOps-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</p>
 ### GitHub Stats
 
 <p align="center">
