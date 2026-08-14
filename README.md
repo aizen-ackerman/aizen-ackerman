@@ -74,6 +74,6 @@
 
 </div>
 
-<p align="center">"Protect the world in shadows pikaki..."</p>
+<p align="center">"What a waste when you can crush those with the Spiritual Pressure..."</p>
 
 ![Waving Footer](https://capsule-render.vercel.app/api?type=waving&color=E2E61E&height=120&section=footer)
