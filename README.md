@@ -40,6 +40,7 @@
 ## Whoami
 
 <div>
+<img align="right" src="aizen.jpg" width="170" alt="Yokoso" />
 
   ```
   ┌──(aizen㉿security)-[~]
