@@ -61,6 +61,7 @@
 ### GitHub Stats
 
 <p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aizen-ackerman&theme=chartreuse-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 
