@@ -14,7 +14,7 @@
 
 <div align="center">
 <div align="center">
-
+<p align="center">
 [![Security Researcher](https://img.shields.io/badge/Security_Researcher-9FEF00?style=for-the-badge&logo=github&logoColor=white)]()
 
 [![SOC Analyst](https://img.shields.io/badge/SOC_Analyst-FF0000?style=for-the-badge&logo=splunk&logoColor=white)]()
@@ -22,6 +22,7 @@
 [![Network Security Engineer](https://img.shields.io/badge/Network_Security_Engineer-791abd?style=for-the-badge&logo=cisco&logoColor=white)]()
 
 [![DevOps Engineer](https://img.shields.io/badge/DevOps_Engineer-1A1A2E?style=for-the-badge&logo=kubernetes&logoColor=white)]()
+</p>
 
 </div>
 
