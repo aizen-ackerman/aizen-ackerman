@@ -47,9 +47,8 @@
 <br clear="both">
 
 
-## 🛡️ Cyber Security Skills
+### Security Skills
 
-/p>
 
 <p align="center">
 
